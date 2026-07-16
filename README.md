@@ -160,8 +160,8 @@ The model successfully predicts employee attrition with an accuracy of **88%**. 
 
 **Nitesh Yadav**
 
-* LinkedIn: Add your LinkedIn profile
-* GitHub: Add your GitHub profile
+* LinkedIn:https://www.linkedin.com/in/nitesh-yadav-27404137a/
+
 
 ---
 
